@@ -1,1 +1,1 @@
-Program for analyzing bird migrations and stealing data from Wunderground because it's overpriced and their security is a joke
+Program for analyzing bird migrations and stealing data from Wunderground because their data is overpriced and their security is a joke. 
