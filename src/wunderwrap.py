@@ -8,6 +8,7 @@ class WunderWrapper:
         self.apikey='e1f10a1e78da46f5b10a1e78da96f525' #default until autogen code
         if apikey is not None:
             self.apikey=apikey
+
     def jsprint(self, jsondata):
         print(json.dumps(jsondata, indent=4, sort_keys=True))
 
