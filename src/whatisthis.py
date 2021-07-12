@@ -1,24 +1,15 @@
 import pandas as pd
 import wunderwrap
 
-
-def printfunc(data):
-    for index, row in data.iterrows():
-        print(row['Actual'], row['Geocode'])
-    return
-
 wr = wunderwrap.WunderWrapper()
 
 data = pd.DataFrame(pd.read_csv('locations.csv'))
 data['Geocode'] = data.Longitude.astype(str) + ',' + data.Latitude.astype(str) #type: ignore
 
-data = data.drop_duplicates(['Geocode'])
-data = data.reset_index(drop=False) #type: ignore
-print(data)
-
-geo = data.loc[0].Geocode
-print(wr.get_stations_near_geo(geo))
-
+print(data[data.duplicated(['Geocode'])])
+for index, row in data.iterrows():
+    #print(row['Actual'], row['Geocode'])
+    pass
 #locationset = len(set(data['Actual'].unique())) #type: ignore
 #locationset = len(set(data['Geocode'].unique())) #type: ignore
 

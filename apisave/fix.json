@@ -1,0 +1,247 @@
+{
+    "location": {
+        "adminDistrictCode": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "countryCode": [
+            "MX",
+            "MX",
+            "MX",
+            "MX",
+            "MX",
+            "MX",
+            "MX",
+            "MX",
+            "MX",
+            "MX"
+        ],
+        "distanceKm": [
+            41.63,
+            46.91,
+            99.5,
+            102.31,
+            149.01,
+            157.04,
+            167.11,
+            171.07,
+            185.04,
+            188.05
+        ],
+        "distanceMi": [
+            25.87,
+            29.15,
+            61.83,
+            63.57,
+            92.59,
+            97.58,
+            103.83,
+            106.3,
+            114.98,
+            116.85
+        ],
+        "ianaTimeZone": [
+            "America/Mexico_City",
+            null,
+            "America/Mexico_City",
+            "America/Mexico_City",
+            "America/Monterrey",
+            "America/Mexico_City",
+            "America/Mexico_City",
+            "America/Mexico_City",
+            "America/Mexico_City",
+            "America/Mexico_City"
+        ],
+        "latitude": [
+            21.333,
+            21.283,
+            21.917,
+            21.983,
+            22.3,
+            20.617,
+            20.133,
+            20.1,
+            20.083,
+            20.967
+        ],
+        "longitude": [
+            -98.817,
+            -98.8,
+            -100,
+            -100,
+            -97.867,
+            -100.186,
+            -98.75,
+            -98.733,
+            -98.367,
+            -97.416
+        ],
+        "obsType": [
+            "SYNOPTIC",
+            "SYNOPTIC",
+            "SYNOPTIC",
+            "SYNOPTIC",
+            "METAR",
+            "METAR",
+            "SYNOPTIC",
+            "SYNOPTIC",
+            "SYNOPTIC",
+            "SYNOPTIC"
+        ],
+        "stationId": [
+            "76585",
+            "76586",
+            "76580",
+            "76581",
+            "MMTM",
+            "MMQT",
+            "76631",
+            "76632",
+            "76634",
+            "76640"
+        ],
+        "stationName": [
+            "76585",
+            "76586",
+            "76580",
+            "76581",
+            "MMTM",
+            "MMQT",
+            "76631",
+            "76632",
+            "76634",
+            "76640"
+        ]
+    }
+}{
+    "location": {
+        "adminDistrictCode": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "countryCode": [
+            "US",
+            "US",
+            "US",
+            "US",
+            "US",
+            "CA",
+            "CA",
+            "US",
+            "CA",
+            "US"
+        ],
+        "distanceKm": [
+            102.49,
+            138.95,
+            150.36,
+            184.8,
+            214.77,
+            219.39,
+            219.39,
+            221.17,
+            223.06,
+            224.63
+        ],
+        "distanceMi": [
+            63.69,
+            86.34,
+            93.43,
+            114.83,
+            133.45,
+            136.33,
+            136.33,
+            137.43,
+            138.6,
+            139.58
+        ],
+        "ianaTimeZone": [
+            "America/Anchorage",
+            "America/Anchorage",
+            "America/Anchorage",
+            "America/Anchorage",
+            "America/Anchorage",
+            "America/Whitehorse",
+            "America/Whitehorse",
+            "America/Anchorage",
+            "America/Whitehorse",
+            "America/Anchorage"
+        ],
+        "latitude": [
+            63.9991,
+            62.9667,
+            64.7833,
+            64.6656,
+            64.833,
+            64.05,
+            64.05,
+            62.15,
+            62.383,
+            64.803
+        ],
+        "longitude": [
+            -145.7292,
+            -141.933,
+            -141.15,
+            -147.1014,
+            -147.617,
+            -139.133,
+            -139.133,
+            -145.45,
+            -140.883,
+            -147.876
+        ],
+        "obsType": [
+            "METAR",
+            "METAR",
+            "METAR",
+            "METAR",
+            "METAR",
+            "METAR",
+            "METAR",
+            "METAR",
+            "METAR",
+            "METAR"
+        ],
+        "stationId": [
+            "PABI",
+            "PAOR",
+            "PAEG",
+            "PAEI",
+            "PAFB",
+            "CWON",
+            "CYDA",
+            "PAGK",
+            "CYXQ",
+            "PAFA"
+        ],
+        "stationName": [
+            "PABI",
+            "PAOR",
+            "PAEG",
+            "PAEI",
+            "PAFB",
+            "CWON",
+            "CYDA",
+            "PAGK",
+            "CYXQ",
+            "PAFA"
+        ]
+    }
+}

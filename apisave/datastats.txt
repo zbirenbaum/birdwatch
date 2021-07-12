@@ -1,0 +1,3 @@
+total unique geocodes searched: 1129
+data unavailiable: 89
+no geocode in sheet: 4
