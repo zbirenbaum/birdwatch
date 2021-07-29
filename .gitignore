@@ -1,3 +1,6 @@
 twc
 **__pycache__
 docs
+src/
+data/
+notusing/

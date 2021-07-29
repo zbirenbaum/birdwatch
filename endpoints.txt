@@ -1,0 +1,25 @@
+  
+  https://api.weather.com/v3/wx/hod/reanalysis/historical/point?pointType=<pointType>&geocode=<geocode>&distance=<distance>&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=<api.key>
+  https://api.weather.com/v3/wx/hod/conditions/historical/point?pointType=<pointType>&geocode=<geocode>&distance=<distance>&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=<api.key>
+  
+  https://api.weather.com/v3/wx/hod/reanalysis/historical/point?pointType=<pointType>&iataCode=<iataCode>&distance=<distance>&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=<api.key>
+  
+  https://api.weather.com/v3/wx/hod/reanalysis/historical/point?pointType=<pointType>&icaoCode=<icaoCode>&distance=<distance>&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=<api.key>
+  
+  https://api.weather.com/v3/wx/hod/reanalysis/historical/point?pointType=<pointType>&placeid=<placeid>&distance=<distance>&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=<api.key> 
+  
+  https://api.weather.com/v3/wx/hod/reanalysis/historical/point?pointType=<pointType>&postalKey=<postalKey>&distance=<distance>&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=<api.key>
+  
+https://api.weather.com/v3/wx/hod/reanalysis/historical/boundary?boundaryType=<boundaryType>&[bbox=<bboxCorners>|vertices=<vertices>]&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=<api.key>
+  
+  
+  
+  
+  
+  
+    "https://api.weather.com/v3/wx/hod/reanalysis/historical/point?pointType=<pointType>&geocode=<geocode>&distance=<distance>&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=yourApiKey"
+    "https://api.weather.com/v3/wx/hod/reanalysis/historical/point?pointType=<pointType>&geocode=<geocode>&distance=<distance>&startDateTime=<startDateTime>&endDateTime=<endDateTime>&units=<units>&format=<format>&apiKey=yourApiKey"
+    
+    
+    
+    BaseURL   <- "https://api.weather.com/v1/geocode/<latitude>/<longitude>/observations/historical.json?language=<language>&units=<units>&apiKey=<api.key>&startDate=<start.date>&endDate=<end.date>"

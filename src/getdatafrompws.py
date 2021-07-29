@@ -13,4 +13,6 @@ for loc in data['locations']:
         print(loc['result']['location']['stationId'])
     except:
         print(loc['result'])
+        continue
+
     #print(data[key])
