@@ -1,6 +1,7 @@
 twc
 **__pycache__
 docs
-src/
-data/
 notusing/
+twc/
+src/
+
